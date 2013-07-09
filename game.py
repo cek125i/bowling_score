@@ -19,7 +19,6 @@ class Game:
 
     # state variables
     _active_multipliers = [1, 1]
-    _active_spare_i = 0
     _frame_i = 1
     _roll_in_frame_i = 0
     _pins_in_this_frame = 0
